@@ -18,8 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
-https://github.com/Akshithaa12/Sql_library_Management/blob/ebd5799bd39cf8509cef068d877d511fed9696f0/structure.jpg
-
+![Image Alt](https://github.com/Akshithaa12/Sql_library_Management/blob/ebd5799bd39cf8509cef068d877d511fed9696f0/structure.jpg)
 ### 1. Database Setup
 
 - **Database Creation**: Created a database named `library_db`.
